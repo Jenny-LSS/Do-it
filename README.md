@@ -1,4 +1,6 @@
-# DO it!
+# DO it! 홈페이지 예제
+
+[DEMO](https://affectionate-johnson-fa07ea.netlify.app)
 
 # CSS
 ```css
